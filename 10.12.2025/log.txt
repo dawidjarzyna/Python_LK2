@@ -1,0 +1,6 @@
+INFO:Uruchomiono serwer.
+DEBUG:Nawiązano połączenie z bazą.
+ERROR:Nie udało się przetworzyć żądania #123.
+To jest błędna linia bez dwukropka
+INFO:Zakończono zadanie.
+ERROR:Błąd autoryzacji użytkownika 'admin'.
